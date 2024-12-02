@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay366" alt="vinay366" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vinay99644" target="blank"><img src="https://img.shields.io/twitter/follow/vinay99644?logo=twitter&style=for-the-badge" alt="vinay99644" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Vinay996644" target="blank"><img src="https://img.shields.io/twitter/follow/Vinay996644?logo=twitter&style=for-the-badge" alt="Vinay996644" /></a> </p>
 
 - 🔭 I’m currently working on **.NET FullStack**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vinay99644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinay99644" height="30" width="40" /></a>
+<a href="https://twitter.com/Vinay996644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vinay996644" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jillalavinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jillalavinay" height="30" width="40" /></a>
 <a href="https://instagram.com/mrjillala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrjillala" height="30" width="40" /></a>
 </p>
